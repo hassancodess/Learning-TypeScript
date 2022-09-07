@@ -62,3 +62,4 @@ p1.printLives()
 // const p2 = new Person('Nawas', 'Faiz')
 // p2.taunt()
 // console.log(p2.first, p2.last)
+// Commit
